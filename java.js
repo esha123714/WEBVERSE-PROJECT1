@@ -54,7 +54,7 @@ gsap.from("#h11",{
   scrollTrigger: {
     trigger: ".container", 
     scroller: "body",
-    markers: true, 
+    
     start: "top 60%", 
     end: "top 80%", 
     scrub: 3, 
